@@ -1,4 +1,4 @@
-# Sound Analysis using Data Science
+# Sound Analysis 
 
 ## Overview
 This project focuses on analyzing sound data using data science techniques. The goal is to process, visualize, and extract meaningful insights from audio data using various machine learning and signal processing techniques.
